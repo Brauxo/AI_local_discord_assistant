@@ -1,0 +1,13 @@
+# Ignore l'histique du chat
+chat_history.json
+
+# Ignore l'environement virtuel
+.venv/
+
+# Ignore la reponse
+response.mp3
+
+# Ignore ffmpeg e
+ffmpeg.exe
+
+__pycache__

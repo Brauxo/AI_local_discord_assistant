@@ -1,0 +1,17 @@
+streamlit==1.41.1
+streamlit-chat==0.1.1
+ollama==0.4.5
+streamlit-authenticator==0.4.1
+SpeechRecognition==3.13.0
+PyAudio==0.2.14
+pyttsx3==2.98
+discord==2.3.2
+PyNaCl==1.5.0
+transformers==4.47.1
+accelerate==0.0.1
+
+
+#A implementer si carte nvdia rtx 
+#realtimetts[coqui]==0.4.1
+#torch==2.5.1 
+#deepspeed==0.16.2
