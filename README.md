@@ -1,4 +1,4 @@
-# Chatbot Project
+# AI Chatbot Discord Project by Owen (BRAUXO)
 
 ![demo](pics/demo.gif)
 
@@ -28,11 +28,11 @@ Before setting up the project, ensure you have the following tools and services:
 
 ### **Python**
 
-Make sure you have **Python 3.11+** installed on your system. You can download Python from the official website:
+Make sure you have **Python 3.11+** installed on your system. You can download Python from the official website :
 
 - [Python Official Website](https://www.python.org/downloads/)
 
-Here is a [tutorial] that I recommend if you struggle to install Python
+Here is a [tutorial](https://realpython.com/installing-python/) that I recommend if you struggle to install Python
 
 
 #### To check if Python is already installed, open your terminal or command prompt and run:
@@ -46,7 +46,7 @@ python --version
 
 - **[Git](https://github.com/cambierelliot/E4-DataEngineerProject)**: Used to clone the project from the GitHub repository.
 
-### Additional Prerequisites for Audio Playback (needed to have audio anwers in a voice channel):
+### Additional Prerequisites for Audio Playback (needed to have audio anwers in a voice channel) :
 
 - **FFmpeg**: Required for the Discord bot to play audio files.
   - Download FFmpeg from the official website: [FFmpeg Download](https://ffmpeg.org/download.html).
@@ -71,12 +71,12 @@ python --version
 
 ## 3 - Installation
 
-### Cloning the Project:
+### Cloning the Project
 
 To clone the repository to your local machine, run the following command:
 
 ```
-git clone https://github.com/Brauxo/Ollama_local_discord_bot
+git clone https://github.com/Brauxo/AI_local_discord_assistant
 ```
 
 You will also need the python libraries, run the following command:
@@ -192,7 +192,13 @@ SYSTEM_PROMPT = "change to what you want"
 ⚠⚠⚠ DISCORD_TOKEN: The bot’s authentication token required to connect to Discord. You need to place your bot’s actual token here (you can get it from the Discord Developer Portal).
 
 ⚠ BOT_NAME: The name of your bot, which is used when the bot is mentioned in a message.
-Example : user : "Hello BOT_NAME how are you? 
+
+Example : 
+```
+user : "Hello BOT_NAME how are you? 
+
+BOT_NAME : I am fine thanks !
+```
 
 
 ## 7 - Run
