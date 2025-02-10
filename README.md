@@ -1,4 +1,6 @@
-# AI Chatbot Discord Project by Owen (BRAUXO)
+![Commit](https://img.shields.io/badge/last%20commit%20-%20February%202025%20-%20blue)
+![Maintainer](https://img.shields.io/badge/maintainer-Brauxo-blue) 
+# AI_local_discord_assistant
 
 ![demo](pics/demo.gif)
 
@@ -8,7 +10,8 @@ This **AI Chatbot Discord Project** is a personnal project that consists of mult
 
 I personally have a way more advanced AI assistant but it's not fully local and I only aim to give you a starting point. 
 
-Made by Owen (Brauxo).
+Made by Owen BRAUX in january 2025.
+
 
 ## Table of Contents
 
@@ -20,7 +23,6 @@ Made by Owen (Brauxo).
 6. [Config](#6---Config)
 7. [Run](#7---run)
 
----
 
 ## 1 - Installation Prerequisites
 
@@ -44,7 +46,7 @@ python --version
 - **[Ollama](https://ollama.com/)**: For running the Ollama model.
   - You can find the Python resources for Ollama [here](https://github.com/ollama/ollama-python).
 
-- **[Git](https://github.com/cambierelliot/E4-DataEngineerProject)**: Used to clone the project from the GitHub repository.
+- **[Git bash](https://git-scm.com/downloads)**: Used to clone the project from the GitHub repository.
 
 ### Additional Prerequisites for Audio Playback (needed to have audio anwers in a voice channel) :
 
